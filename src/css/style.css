@@ -1,0 +1,10 @@
+.student-card {
+    position: relative;
+    align-items: center;
+    border: 1px solid;
+    padding: 40px 50px;
+    text-align: center;
+    justify-content: center;
+    background-color: lavender;
+    
+}
